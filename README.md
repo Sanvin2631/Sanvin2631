@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kavin A.K.A Sanvin</h1>
 <h3 align="center">A Notorious Engineer With A Tech Mind</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Sanvin263&label=Profile%20views&color=129e00&style=plastic" alt="Sanvin2631" /> </p> 
-<img align="right" alt="Coding" width="400" src="https://buzz16.com/wp-content/uploads/2018/12/Romantic-Couple-Hugging-Drawings-and-Sketches-7.jpg">
+<img align="right" alt="Coding" width="400" src="https://www.artistichaven.com/wp-content/uploads/2020/08/Simple-Pencil-Sketches-Of-Couples-In-Love-2-2.jpg">
 
 - 🌱 I’m currently learning **B.E Mechanical Engineering**
 
