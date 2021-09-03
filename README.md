@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kavin A.K.A Sanvin</h1>
 <h3 align="center">A Notorious Engineer With A Tech Mind</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Sanvin263&label=Profile%20views&color=129e00&style=plastic" alt="Sanvin2631" /> </p> 
-<img align="right" alt="Coding" width="400" src="https://www.artistichaven.com/wp-content/uploads/2020/08/Simple-Pencil-Sketches-Of-Couples-In-Love-2-2.jpg">
+<img align="right" alt="Coding" width="400" src="https://lh3.googleusercontent.com/_2FIk9ty0XSAn1YcqesCJYN3_im5wNT48p4POr-O39yP6FYz57OuuFcsqYtuNcqET6po-rvQRr0JRn77AbN-IaM6tGSbbyqVTn6u7hW0gpebfpUy_zdyXpbwAUeiFfqmX42BifZhMfqG0_bjmw85-_SqSvgPIRdVtp24vMGnKVrbDcBCDuhvb4vNoWPeSLh-b-gleFNusOt4GsfhZs0NPh99AsMfp3MUG8FIIxOM1vat0b5M_vDRSJ4GF9-wy7va9h4Vp8f10svRpOxrEInhqa4p-vyeol4D2U50h4kUrXVuzzweELDhjVl6zbc_saHYIWOVXuzkuQIHjEiyGc-yXCo9psZ93sy0hWSQ50ivLO2lYMufFmq6Uo1xN_cOkE75KF8tVL1PVCOESv1qpxHWaghC8KXmrUrZXdFBzhBK_Een_bjvMjy3wypR36_obg5N76s7rMVLy1XuDjh0FEqoMbRAN0wuBW4I_UVCX3Py3UbPqUkqfXN2eCxuo5UZIf7NTN_eL08Eegy7CvkJJYbA2H72CMfRGGPW3MvVLyxv86RC4eSOZFMZsGVZm4xn2gjIAhdf7R--DXqjmcw8_vwJk2zsJus1VOyyvYZiDklaq2xJNihleingEnAPsZkFuHhRVZMPhvTU1KmyoxmNWIg2oSYjj4-_gxOeI_lE_pa05hnjIfXpoCx5pijS6lfoFcQSjiFI4q6ciY9xC2VPztuzDNQP=w362-h643-no?authuser=0">
 
 - 🌱 I’m currently learning **B.E Mechanical Engineering**
 
