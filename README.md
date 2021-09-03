@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kavin A.K.A Sanvin</h1>
 <h3 align="center">A Notorious Engineer With A Tech Mind</h3>
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Sanvin263&label=Profile%20views&color=129e00&style=plastic" alt="Sanvin2631" /> </p> 
 - 🌱 I’m currently learning **B.E Mechanical Engineering**
 
 - 📫 How to reach me **dk.kavinpallikallucifer@gmail.com**
