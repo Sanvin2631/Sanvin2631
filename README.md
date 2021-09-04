@@ -28,3 +28,7 @@
     <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Sanvin's streak" src="https://github-readme-streak-stats.herokuapp.com?user=Sanvin2631&theme=monokai-metallian&hide_border=true"/>
   </a>
 </p>
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sanvin2631&show_icons=true&theme=great-gatsby)
+
