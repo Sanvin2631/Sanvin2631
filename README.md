@@ -25,10 +25,18 @@
 <!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
 <p align="center">
   <a href="https://github.com/Sanvin2631/github-readme-streak-stats">
-    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Sanvin's streak" src="https://github-readme-streak-stats.herokuapp.com?user=Sanvin2631&theme=monokai-metallian&hide_border=true"/>
+    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Sanvin's streak" src="https://github-readme-streak-stats.herokuapp.com?user=Sanvin2631&theme=vision-friendly-dark&hide_border=true"/>
   </a>
 </p>
 
-
+## Github Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sanvin2631&show_icons=true&theme=great-gatsby)
 
+
+## Repositories I Work On</h2>
+<a href="https://github.com/Sanvin2631/Minion-Juice-Reloaded-Kernel"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Sanvin2631&repo=Minion-Juice-Reloaded-Kernel&show_owner=false&theme=nightowl"></a></p>
+<a href="https://github.com/Sanvin2631/Minion-Juice-Kernel"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Sanvin2631&repo=Minion-Juice-Kernel&show_owner=false&theme=midnight-purple"></a></p>
+<a href="https://github.com/Sanvin2631/Minions-Kernel-Sweet"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Sanvin2631&repo=Minions-Kernel-Sweet&show_owner=false&theme=radical"></a></p>
+<h2 align="center">
+  
+  [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Sanvin2631&theme=coral)](https://github.com/Sanvin2631/github-readme-activity-graph)
