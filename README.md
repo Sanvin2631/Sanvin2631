@@ -3,6 +3,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Sanvin263&label=Profile%20views&color=129e00&style=plastic" alt="Sanvin2631" /> </p> 
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/fe/09/fa/fe09fa5b803acf47205ffdbe9398f8c6.gif">
 
+
+
 - 🌱 I’m currently learning **B.E Mechanical Engineering**
 
 - 📫 How to reach me **dk.kavinpallikallucifer@gmail.com**
@@ -16,3 +18,13 @@
 ## Connect With Me
 [<img src="https://www.vectorlogo.zone/logos/instagram/instagram-tile.svg" width="32">](https://www.instagram.com/sanvin_minion)
 [<img src="https://www.vectorlogo.zone/logos/telegram/telegram-tile.svg" width="32">](https://t.me/SanvinMinion)
+
+
+## 🔥 Streak stats
+
+<!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
+<p align="center">
+  <a href="https://github.com/Sanvin2631/github-readme-streak-stats">
+    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Sanvin's streak" src="https://github-readme-streak-stats.herokuapp.com?user=Sanvin2631&theme=monokai-metallian&hide_border=true"/>
+  </a>
+</p>
