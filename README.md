@@ -1,7 +1,7 @@
 <h1 align="center">Annyeong 👋, I'm Kavin A.K.A Sanvin</h1>
 <h3 align="center">A Notorious Engineer With A Technical Mind</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Sanvin263&label=My Profile%20Views&color=129e00&style=plastic" alt="Sanvin2631" /> </p> 
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/fe/09/fa/fe09fa5b803acf47205ffdbe9398f8c6.gif">
+<img align="right" alt="Coding" width="400" src="https://c.tenor.com/mBgldR8KpQsAAAAC/blackpink-roseanne-park.gif">
 
 
 
