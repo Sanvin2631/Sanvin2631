@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **dk.kavinpallikallucifer@gmail.com**
 
-- ⚡ Fun fact **Nothing Much. Juzt A Normal Committed Guy**
+- ⚡ Fun fact **Nothing Much. Juzt A Normal Committed Guy(LDR)**
 
 
 <h3 align="left">Languages and Tools:</h3>
