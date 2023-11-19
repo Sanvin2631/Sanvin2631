@@ -5,7 +5,7 @@
 
 
 
-- 🌱 I’m currently learning **B.E Mechanical Engineering**
+- 🌱 I’mma Graduate in **B.E Mechanical Engineering** and Planning For Masters in **MBA**
 
 - 📫 How to reach me **dk.kavinpallikallucifer@gmail.com**
 
