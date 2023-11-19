@@ -37,8 +37,5 @@
 <a href="https://github.com/Sanvin2631/Minion-Juice-Reloaded-Kernel"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Sanvin2631&repo=Minion-Juice-Reloaded-Kernel&show_owner=false&theme=nightowl"></a></p>
 <a href="https://github.com/Sanvin2631/Minion-Juice-Kernel"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Sanvin2631&repo=Minion-Juice-Kernel&show_owner=false&theme=midnight-purple"></a></p>
 <a href="https://github.com/Sanvin2631/Minions-Kernel-Sweet"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Sanvin2631&repo=Minions-Kernel-Sweet&show_owner=false&theme=radical"></a></p>
-<h2 align="center">
-  
-  [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Sanvin2631&theme=coral)](https://github.com/Sanvin2631/github-readme-activity-graph)
-
+<h2 align="center"> 
   
